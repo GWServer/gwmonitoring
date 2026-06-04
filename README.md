@@ -2,4 +2,4 @@
 ip: GrayWorld.pro
 
 
-GWMonitoring
+gwmonitoring
