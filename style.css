@@ -204,23 +204,23 @@ footer {
 #twentythree, #twentyfive, #twentysix, #twentyseven { background-color: #FFFF00; }
 
 /* ==== Зображення для кнопок ==== */
-#one { background-image: url("images/1.png"); }
-#two { background-image: url("images/2.png"); }
-#three { background-image: url("images/3.png"); }
-#four { background-image: url("images/4.png"); }
-#five { background-image: url("images/5.png"); }
-#six { background-image: url("images/6.png"); }
-#seven { background-image: url("images/7.png"); }
-#eight { background-image: url("images/8.png"); }
-#nine { background-image: url("images/9.png"); }
-#ten { background-image: url("images/10.png"); }
-#eleven { background-image: url("images/11.png"); }
-#twelve { background-image: url("images/12.png"); }
-#thirteen { background-image: url("images/13.png"); }
-#fourteen { background-image: url("images/14.png"); }
-#fifteen { background-image: url("images/15.png"); }
-#sixteen { background-image: url("images/16.png"); }
-#seventeen { background-image: url("images/17.png"); }
+#one { background-image: url("/images/1.png"); }
+#two { background-image: url("/images/2.png"); }
+#three { background-image: url("/images/3.png"); }
+#four { background-image: url("/images/4.png"); }
+#five { background-image: url("/images/5.png"); }
+#six { background-image: url("/images/6.png"); }
+#seven { background-image: url("/images/7.png"); }
+#eight { background-image: url("/images/8.png"); }
+#nine { background-image: url("/images/9.png"); }
+#ten { background-image: url("/images/10.png"); }
+#eleven { background-image: url("/images/11.png"); }
+#twelve { background-image: url("/images/12.png"); }
+#thirteen { background-image: url("/images/13.png"); }
+#fourteen { background-image: url("/images/14.png"); }
+#fifteen { background-image: url("/images/15.png"); }
+#sixteen { background-image: url("/images/16.png"); }
+#seventeen { background-image: url("/images/17.png"); }
 #eighteen { background-image: url("images/18.png"); }
 #nineteen { background-image: url("images/19.png"); }
 #twenty { background-image: url("images/20.png"); }
